@@ -6,4 +6,4 @@ pardeep
 rahul
 nivas
 pavan
-
+ adding onr player to the team
