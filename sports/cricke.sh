@@ -6,4 +6,6 @@ viratkohli
 #sehwag
 hardik
 echo "gambhir"
-"adding one more player to this team "
+"adding one more player to this team "7;30
+"adding one more to this team" 7;18
+
