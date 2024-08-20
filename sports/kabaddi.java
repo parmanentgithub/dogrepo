@@ -6,4 +6,8 @@ pardeep
 rahul
 nivas
 pavan
+<<<<<<< HEAD
+ adding onr player to the team
+=======
 ading one more player fazal
+>>>>>>> master
